@@ -1,0 +1,8 @@
+// Put Custom variable replacements here
+// Use this file as a referece:
+// node_modules/bootstrap/scss/_variables.scss
+$custom-font-size: 20px;
+
+// Make sure this is the last line so that they get filled in.
+@import 'bootstrap/scss/functions';
+@import "bootstrap/scss/variables";

@@ -1,0 +1,13 @@
+baseurl: ""
+title: Base Bootstrap
+
+sass:
+  # style: compressed
+  load_paths:
+    - _sass
+    - node_modules
+
+exclude:
+  - yarn.lock
+  - package.json
+  - README.md
